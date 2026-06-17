@@ -4,8 +4,9 @@ The Guessing Number Game is a simple Java console application where the player a
 Features
 User-friendly console interaction.
 Provides hints to guide the player.
-Uses a loop to allow multiple attempts.
+Allows multiple guessing attempts.
 Displays a success message when the correct number is guessed.
+Simple and interactive gameplay.
 Technologies Used
 Java
 Scanner Class for user input
@@ -18,7 +19,10 @@ If the guess is too low, the program displays "Guess it Higher!!".
 If the guess is too high, the program displays "Guess it Lower!!".
 When the correct number is guessed, the program displays "You got it!!" and ends the game.
 Learning Outcomes
-Understanding Java basics.
-Working with user input.
-Using loops and conditional statements.
-Building simple interactive applications.
+Understanding Java fundamentals.
+Working with user input using Scanner.
+Using loops for repetitive tasks.
+Implementing conditional statements.
+Developing simple interactive applications.
+Conclusion
+The Guessing Number Game is a beginner-friendly Java project that helps learners understand core programming concepts such as user input, loops, and decision-making while creating an engaging console-based application.
